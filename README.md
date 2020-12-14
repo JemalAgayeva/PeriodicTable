@@ -1,4 +1,4 @@
-# PeriodicTable
+# periodicTable
 Periodic Table (Optional Assignment)
 
 This is an optional assignment. Only work on this if you are already done with all the previous CSS assignments. Please create a periodic table that looks very similar to the image below (download the image file here)http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_2135/handouts/chapter2135_3277_periodic-table.bmp.
